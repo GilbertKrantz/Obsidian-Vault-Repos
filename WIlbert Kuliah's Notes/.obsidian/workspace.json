@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "4eeced175b7020b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f1f0fd55dc4a57f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81c061dd02d72094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2022-12-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1fd7dd57cd1e75a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2022-12-11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89da4adbfe7c89ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2022-12-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2bc72443740c0f2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Coding/Git/PIcture Data/Pasted image 20221215213827.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aad2cc2d271dde36",
+    "type": "split",
+    "children": [
+      {
+        "id": "19e3e0a1b88f817b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36bc43e585556ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbbb2924b8544200",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae5adf99fabc46a5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff382a7450162c51",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f8ae6709efc9c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a8b22d7a9f0993",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/2022-12-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3207f6cbf075fa56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/2022-12-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa584a5c5210c00c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1198857dce788889",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/2022-12-21.md"
+              }
+            }
+          },
+          {
+            "id": "613a2947b6b13fa1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "81c061dd02d72094",
+  "lastOpenFiles": [
+    "Coding/Phyton/Basic Python.md",
+    "Coding/Git/Git Setup.md",
+    "Untitled.md",
+    "Journal/2022-12-15.md",
+    "Journal/2022-12-11.md",
+    "Journal/2022-12-12.md",
+    "Templates/daily.md",
+    "Class/Notes/Discrete Mathematics Presentation.md",
+    "Coding Hub.md",
+    "Coding/Phyton/Numpy.md"
+  ]
+}
